@@ -30,5 +30,6 @@ All cleaned data will be saved automatically to: data/cleaned_kaggle_survey.csv
 
 👤 Author
 Ziad Saied
-📧 Email: ziyadsaed5@gmail.com
-🔗 LinkedIn: linkedin.com/in/ziadsaied
+- 📧 Email: ziyadsaed5@gmail.com
+- 🔗 LinkedIn: linkedin.com/in/ziadsaied
+- 💻 GitHub: github.com/ziadsaied
